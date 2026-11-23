@@ -13,8 +13,8 @@ A (7-segment BCD) display with four inputs and one 7-segment output was designed
 
 ## How to test
 
-Explain how to use your project
+It can be used for a variety of devices.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A 7-segment display is needed to represent the truth table.
