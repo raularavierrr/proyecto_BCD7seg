@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A (7-segment BCD) display with four inputs and one 7-segment output was designed.
 
 ## How to test
 
